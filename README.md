@@ -1,19 +1,5 @@
 Simple Blockchain Simulation Project
-This C project simulates a simple blockchain using linked lists. The project structure is organized into several files, each handling different aspects of the simulation.
-Project Structure : 
-project_folder/
-│
-├── src/
-│   ├──include/
-│      ├── linkedlist.h
-│      ├── blockchain.h
-│      └── ledger.h
-│   ├── main.c
-│   ├── linkedlist.c
-│   ├── blockchain.c
-│   └── ledger.c
-│
-└── README.md
+This C project simulates a simple blockchain using linked lists. The project structure is organized into several files, each handling different aspects of the simulatio
 
 Step 1: Set Up the Project
 
