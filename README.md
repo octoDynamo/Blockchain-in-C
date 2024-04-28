@@ -17,19 +17,19 @@ To compile and run the blockchain simulation, follow these steps:
 1. Clone this repository to your local machine:
 
     ```
-    git clone https://github.com/your-username/blockchain-simulation.git
+    git clone https://github.com/octoDynamo/Blockchain-in-C
     ```
 
 2. Navigate to the project directory:
 
     ```
-    cd blockchain-simulation
+    cd Blockchain-in-C
     ```
 
 3. Compile the source code:
 
     ```
-    gcc -o blockchain blockchain.c -lm
+    gcc -o blockchain main.c -lm
     ```
 
 4. Run the simulation:
